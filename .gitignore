@@ -1,3 +1,7 @@
 venv/
 __pycache__/
-output/*
+*.pyc
+.DS_Store
+report_generation.log
+output/
+
